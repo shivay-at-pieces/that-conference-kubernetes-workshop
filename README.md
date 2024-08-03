@@ -1,4 +1,4 @@
-# Express App with Docker and Kubernetes
+# Demo for THAT Conference Workshop: Express App with Docker and Kubernetes
 
 This project demonstrates how to containerize an Express.js application using Docker and deploy it to Kubernetes (Minikube).
 
